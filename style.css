@@ -1,0 +1,12 @@
+.main-section-banner {
+    background-image: url("https://i.ibb.co/JnmTD12/banner.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.main-section {
+    height: 1000px;
+}
+.main-sidebar {
+    height: 100px;
+}
